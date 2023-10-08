@@ -12,7 +12,8 @@ input {
     border-radius: 6px;
     box-sizing: border-box;
     font-weight: bold;
-    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.288)
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.288);
+    color: black;
 }
 
 .doctor {
@@ -29,11 +30,11 @@ label {
 
 .text-1 {
     width: 100%;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     background-color:rgb(255, 0, 242);
     border-radius: 6px;
     font-weight: bold;
-    border: none;
+    border: 1px solid white;
     padding: 12px 18px;
     margin-top: 10px;
     font-size: 17px;
