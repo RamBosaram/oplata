@@ -1,0 +1,50 @@
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin-bottom: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.26);
+    border-radius: 6px;
+    box-sizing: border-box;
+    font-weight: bold;
+    box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.288)
+}
+
+.doctor {
+    max-width: 450px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+label {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.text-1 {
+    width: 100%;
+    color: white;
+    background-color: rgb(151, 241, 16);
+    border-radius: 6px;
+    font-weight: bold;
+    border: none;
+    padding: 12px 18px;
+    margin-top: 10px;
+    font-size: 17px;
+}
+
+.text-1:hover {
+    cursor: pointer;
+    background-color: rgb(144, 207, 50);
+
+}
+
+.text-1:active {
+    background-color: rgb(128, 184, 45);
+    transform: scale(0.98);
+}
+.oplata {
+color: rgb(140, 224, 13);
+font-weight: bold;
+
+}
